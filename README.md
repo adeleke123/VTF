@@ -1,4 +1,6 @@
 # VTF Bootcamp
+![image](https://github.com/adeleke123/VTF/assets/51156057/40400cfb-15a0-4814-8ad3-8998bf821e24)
+
 Here's a glimpse of what the bootcamp all about:
 + Continuous Security Testing: Grasp the significance of this key practice in modern security operations and understand its application in today's digital landscapes.
 + Red vs Blue vs Purple teams: Dive into the roles and responsibilities of these teams and explore how they contribute to an all-encompassing security program.
